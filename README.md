@@ -14,28 +14,21 @@ This data analysis project aims to provide insights into the performance and tre
 ## Data Source
 The main datasets for this analysis are the 'ba_reviews' file and the 'Countries' file. The former includes detailed information on British Airways reviews and ratings across various flight attributes, while the latter provides information about the locations of those reviews and other key details.
 
-the dataset file can be downloaded here - [Reviews and Ratings Data]
+the datasets files can be downloaded here - [Reviews and Ratings Data](./ba_reviews.csv) and [Countries Data](./Countries.csv)
 
 
 ## Tools
-- Excel
-  - Power Query - I used Power Query for Data Cleaning and Preparation
-  - Pivot Tables - I used them for Data Analysis, Creating reports and Visualizations
+- Tableau
  
-## Data Cleaning and Preparation via Power Query
+## Data Cleaning and Preparation
 - Data loading and inspection.
-- Handling errors, missing values, duplicates, formatting.
-- Merge columns.
-  
-The excel file after the data cleaning & preparation process can be downloaded here - [Movies Data Ready](https://github.com/user-attachments/files/20760687/Movies.Data.Dashboard.xlsx)
+- Handling errors, formatting, adjusting data types.
 
 ## Exploratoty Data Analysis
-- what are the Best Genres.
-- Best & Worst Profitable Movies,
-- What are the Top Movies.
-- Which Movies had the highest budget.
-- Who are the Top Actors.
-
+- Which country has the best and worst ratings?
+- Which country has the most and least reviews?
+- Did the ratings change over time?
+  
 ## Results and Findings
 For example: the best genre by box office revenue in 2016 was "ACTION" with a revenue of almost 3,300$ millions by box office, in this genre the most profitable Movie was Deadpool with a ROI of 1249%.
 ![image](https://github.com/user-attachments/assets/13da4e6b-8e07-4048-8586-6c0c8d585a43)
