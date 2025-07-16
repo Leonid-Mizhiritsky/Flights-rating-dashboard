@@ -28,6 +28,8 @@ the datasets files can be downloaded here - [Reviews and Ratings Data](./ba_revi
 - Which country has the best and worst ratings?
 - Which country has the most and least reviews?
 - Did the ratings change over time?
+- Witch aircraft has the best ratings
+- Witch aircraft has the most reviews
   
 ## Results and Findings
 For example: the best genre by box office revenue in 2016 was "ACTION" with a revenue of almost 3,300$ millions by box office, in this genre the most profitable Movie was Deadpool with a ROI of 1249%.
