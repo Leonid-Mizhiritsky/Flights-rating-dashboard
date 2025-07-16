@@ -32,8 +32,8 @@ the datasets files can be downloaded here - [Reviews and Ratings Data](./ba_revi
 - Witch aircraft has the most reviews
   
 ## Results and Findings
-For example: the best genre by box office revenue in 2016 was "ACTION" with a revenue of almost 3,300$ millions by box office, in this genre the most profitable Movie was Deadpool with a ROI of 1249%.
-![image](https://github.com/user-attachments/assets/13da4e6b-8e07-4048-8586-6c0c8d585a43)
+//For example: the best genre by box office revenue in 2016 was "ACTION" with a revenue of almost 3,300$ millions by box office, in this genre the most profitable Movie was Deadpool with a ROI of 1249%.
+//![image](https://github.com/user-attachments/assets/13da4e6b-8e07-4048-8586-6c0c8d585a43)
 
-## Interactive Excel Dashboard
-Can be downloaded here - [Movies Data Dashboard.xlsx](https://github.com/user-attachments/files/20761525/Movies.Data.Dashboard.xlsx)
+## Interactive Tableau Dashboard
+Can be viewed [here](https://public.tableau.com/app/profile/leonid.mizhiritsky/viz/BritishAirwaysFlightsRating/Dashboard1?publish=yes)
