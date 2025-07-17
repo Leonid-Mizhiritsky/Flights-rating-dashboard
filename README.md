@@ -5,6 +5,8 @@
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
+- [Data Preparation](#Data-Cleaning-and-Preparation)
+- [Exploratoty Data Analysis](#Exploratoty-Data-Analysis)
 - [Results](#Results-and-Findings)
 - [Dashboard](#Interactive-Tableau-Dashboard)
 
@@ -28,8 +30,8 @@ the datasets files can be downloaded here - [Reviews and Ratings Data](./ba_revi
 - Which country has the best and worst ratings?
 - Which country has the most and least reviews?
 - Did the ratings change over time?
-- Witch aircraft has the best ratings
-- Witch aircraft has the most reviews
+- Witch aircraft has the best ratings?
+- Witch aircraft has the most reviews?
   
 ## Results and Findings
 For example: If you look at the food ratings on British Airways flights, you’ll notice that passengers from the USA were generally not satisfied, giving an average score of 2.6 out of 5 based on 116 reviews. Overall, food ratings remained relatively consistent between 2016 and 2023, except for a noticeable dip in the first half of 2020, likely due to the impact of COVID-19. In my opinion, the food quality could definitely use an upgrade. Interestingly, the best-rated food was on the Boeing 787 aircraft, with an average score of 3 out of 5 based on 52 reviews and A319 aircraft got an average score of 1.6 out of 5 based on 66 reviews. It must be further investigated.
